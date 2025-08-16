@@ -1,3 +1,27 @@
+
+
+<img width="1280" height="720" alt="AgenticAI Chatbot" src="https://github.com/user-attachments/assets/430cf82d-4e26-430a-8dfe-256f5ddf7c7d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Developed advanced contextual and knowledge-based chatbot solutions using GenAi LLM, effectively handling both unstructured and structured data. Integrated GenAi with Langchain to manage workflow orchestration, while interacting with a vast 10 GB of unstructured data. Conducted extensive prompt engineering & RAG techniques to optimize the system’s responsiveness and intelligence & deployed GenAi solutions on the client’s VM.& Implemented the streaming functionality like Chat GPT interface in solutions . Which helps the internal audience/employees to understand the Research data much better.
 
 
